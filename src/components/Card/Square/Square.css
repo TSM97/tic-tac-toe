@@ -1,0 +1,12 @@
+.square{
+    height: 20vh;
+    width: 100%;
+    font-size: min(max(30px,10vh),50px);
+    min-height: 70px;
+    min-width: 70px;
+    border: 3px grey solid;
+    border-radius: 8px;
+}
+.square:hover{
+    background-color:rgb(199, 199, 199);
+}
